@@ -1,0 +1,6 @@
+C:\Users\amita\source\repos\GitHubTest\GitHubTest\bin\Debug\GitHubTest.dll
+C:\Users\amita\source\repos\GitHubTest\GitHubTest\bin\Debug\GitHubTest.pdb
+C:\Users\amita\source\repos\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csprojAssemblyReference.cache
+C:\Users\amita\source\repos\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\amita\source\repos\GitHubTest\GitHubTest\obj\Debug\GitHubTest.dll
+C:\Users\amita\source\repos\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
